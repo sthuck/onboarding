@@ -7,9 +7,11 @@ Unless otherwise specified, permissions are managed by devops team, and should b
 
 - [ ] GMail/Calender
 - [ ] Slack
-- [ ] kubectl
+- [ ] GCP/kubectl
 - [ ] Github
-- [ ] Jira
+- [ ] Perimeter 81
+- [ ] Jira/Confluence 
+- [ ] AWS
 - [ ] figma (Aviad/Hadar)
 
 
