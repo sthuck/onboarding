@@ -32,9 +32,22 @@ If you have never used Typescript before, please read: `The Basics`, `Everyday T
 
 If you have used it before, further your knowledge by reading `Narrowing`, `More on Functions`, and `Type manipulation`.
 
+- [ ] [TypeScript Evolution Blog series](https://mariusschulz.com/blog/series/typescript-evolution) (find 1-2 posts that look interesting to you and go through them. The rest you read whenever you find time in the future...)
+- [ ] (**highly optional**) Read some answers from the top typescript user in StackOverflow. Some really nice tricks [there](https://stackoverflow.com/users/2887218/jcalz?tab=answers)
 
 ### Practice
 You can use [TS Playground](https://www.typescriptlang.org/play) if you need a place to quickly write typescript code.
 
 ## React
-- [ ] [React as a UI runtime by Dan Abramov](https://overreacted.io/react-as-a-ui-runtime/), a long read but recommended for later when you have spare time ![1h](../assets/time-1h.png) **(optional)**
+
+- [ ] [**Before you memo**](https://overreacted.io/before-you-memo/) (dealing with slow renders)
+- [ ] [React as a UI runtime](https://overreacted.io/react-as-a-ui-runtime/), a long read but recommended for later when you have spare time ![1h](../assets/time-1h.png) **(optional)**
+
+## Git
+### Learn
+- [ ] [git cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [ ] ["Pro Git", free ebook](https://git-scm.com/book/en/v2) (**optional**. Chapters 2-3 cover the basics. Chapters 7 and 10 teach you a bit beyond it)
+
+### Practice 
+- [ ] [Learn git branching](https://learngitbranching.js.org/). Practice at least until `Moving Work Around`. The rest is recommended but optional.
+
